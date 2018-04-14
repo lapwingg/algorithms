@@ -19,7 +19,7 @@ class BST {
     }
 }
 
-public class Source {
+public class DynamicProgramming {
     public static int costs[][]; // macierz kosztow
     public static int weights[][]; // macierz wag
     public static int roots[][]; // macierz w ktorej poszukuje korzen
