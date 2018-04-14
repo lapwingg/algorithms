@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Source {
+public class QuickSortNoStackNoRecursion {
     static Scanner in = new Scanner(System.in);
     static long[] tab;
 
