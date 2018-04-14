@@ -367,7 +367,7 @@ class ListaPociagow{
     }
 }
 
-public class Source{
+public class ListyOperacje{
     public static Scanner scn = new Scanner(System.in);
     public static void main(String[] args) {
         String input;
