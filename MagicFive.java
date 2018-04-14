@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Source {
+public class MagicFive {
     public static Scanner in = new Scanner(System.in);
     public static int size;
     public static int[] value;
