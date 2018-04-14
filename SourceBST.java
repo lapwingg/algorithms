@@ -14,7 +14,7 @@ class BST {
     }
 }
 
-public class Source {
+public class SourceBST {
     public static Scanner sc = new Scanner(System.in);
     public static BST root;
     public static int leaf;
