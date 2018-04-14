@@ -53,7 +53,7 @@ class Vertex{
 	}
 } 
 
-public class Source{
+public class Dijkstra{
 	public static Scanner sc = new Scanner(System.in);
 	public static Vertex[][] vertex;	
 	public static PriorityQueue<Vertex> queue;
