@@ -1,7 +1,7 @@
 //Czajka Kamil - grupa nr 7
 import java.util.Scanner;
 
-public class Source {
+public class InversionCount {
     public static Scanner scn = new Scanner(System.in);
     public static long[] a;
     public static long[] tmp;
