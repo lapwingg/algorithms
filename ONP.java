@@ -159,7 +159,7 @@ class Stack {
     }
 }
 
-public class Source {
+public class ONP {
     private static Stack stack;
     private static String input;
     private static String output;
